@@ -24,7 +24,7 @@ let data = '';
 let config = {
   method: 'get',
   maxBodyLength: Infinity,
-  url: 'http://localhost:3000',
+  url: 'https://movies-web-backend.onrender.com',
   headers: { 
     'Authorization': 'Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY4YTg2ZjM1MjhjNzcwZWE2NmJkM2M3NiIsImlhdCI6MTc2MjkzNjgyNiwiZXhwIjoxNzYyOTQwNDI2fQ.0p5Jslq_p_VRmIwmwREVYdzu44WpcCEWFFWcSv14DT4'
   },
